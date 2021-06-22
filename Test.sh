@@ -1,6 +1,8 @@
 #!/bin/bash
 clear
 
+echo "Welcome!"
+
 whole()
 {
 echo "Please select action to take:"
